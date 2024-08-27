@@ -1,0 +1,65 @@
+*{
+    margin: 10px;
+}
+.n1{
+    background-color: cadetblue;
+    padding: 20px;
+}
+.n2{
+    background-color: beige;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 500px;
+    margin: 10px;
+}
+.n3{
+    background-color: coral;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 500px;
+    margin: 10px;
+}
+.n4{
+    background-color: darkseagreen;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 500px;
+}
+.n5{
+    background-color: cadetblue;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 500px;
+}
+.n6{
+    background-color: beige;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 500px;
+}
+.n7{
+    background-color: coral;
+    padding: 50px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 900px;
+}
+.n8{
+    background-color:  darkseagreen;
+    padding: 25px;
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(125, 139, 139);
+    border-radius: 900px;
+}
